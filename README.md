@@ -5,6 +5,7 @@
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
 
+Hello README -- Driver David
 
 The sample repo to be used for our pairing checkin
 
